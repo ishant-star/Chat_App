@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import './index.css';
+import './index.css'; //nn
 
 import HomePage from "./pages/HomePage";
 import SignUpPage from "./pages/SignUpPage";
